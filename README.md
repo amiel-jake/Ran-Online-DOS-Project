@@ -6,7 +6,24 @@
 **Tools and Environment**
 
 •	**Operating Systems**: Kali Linux, Windows Server 2012 R2, Windows 11 (Host Machine)
+
 •	**Tools**: Python, Notepad++, SQL Server 2014 Management Studio, Wireshark
+
 •	**Virtualization Software**: VMware Workstation
+
 •	**Hardware Resource**: 11th Gen Intel(R) Core (TM) i5-1135G7 @ 2.40GHz 2.42 GHz, 16GB RAM
+
 •	**Server Details**: Game application details (Session, Field, Agent, Login)
+
+
+**Step-by-Step Process**
+
+1.	**Setting up the Lab Environment**
+
+o	Downloading the official VMware Workstation, the ISO image file for Windows Server 2012 R2, and the pre-built VMware images for Kali Linux.
+
+o	Creating virtual machines for Kali Linux and Windows Server 2012 R2 Standard with a GUI. Configure the network adapter for both virtual machines to "Bridged" mode to connect them to the physical network.
+
+o	While "NAT" is recommended for server setups due to its security benefits, this project explores alternative network configurations to better understand their functionality and impact.
+
+
