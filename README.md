@@ -21,5 +21,5 @@ This project simulates and analyzes basic DoS attacks on a Ran Online game serve
 
 ## Full Documentation
 
-
+https://github.com/amiel-jake/Ran-Online-DOS-Project/blob/main/Ran%20Online%20DOS%20Project%20v2.pdf
 
