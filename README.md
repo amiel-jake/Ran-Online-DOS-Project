@@ -21,7 +21,7 @@ This project simulates and analyzes basic denial of service (DoS) attacks on a R
 
 ## Full Documentation
 
-For the complete project details, refer to the [Ran Online DOS Project Documentation (PDF)] (https://github.com/amiel-jake/Ran-Online-DOS-Project/blob/main/Ran%20Online%20DOS%20Project%20Documentation.pdf)
+For the complete project details, refer to the [Ran Online DOS Project Documentation](./Ran Online DOS Project Documentation.pdf)
 
 ## Repository Structure
 
