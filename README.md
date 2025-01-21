@@ -27,7 +27,7 @@ For the complete project details, refer to the [Ran Online DOS Project Documenta
 
 - `script/`: Contains Python scripts for DDoS simulation.
 - `screenshots/`: Contains server and attacker logs, ODBC and SQL setup, etc.
-- `cfg/`: Contains configuration files (.ini) of the Server Files.
+- `cfg/`: Contains configuration files (.ini) of Ran Online Server.
 
 ## Future Work
 
