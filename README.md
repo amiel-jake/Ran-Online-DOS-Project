@@ -23,3 +23,13 @@ This project simulates and analyzes basic DoS attacks on a Ran Online game serve
 
 For the complete project details, refer to the [Ran Online DOS Project Documentation (PDF)] (https://github.com/amiel-jake/Ran-Online-DOS-Project/blob/main/Ran%20Online%20DOS%20Project%20Documentation.pdf)
 
+## Repository Structure
+
+- `script/`: Contains Python scripts for DDoS simulation.
+- `screenshots/`: Contains server and attacker logs, ODBC and SQL setup, etc.
+- `cfg/`: Contains configuration files (.ini) of the Server Files.
+
+## Future Work
+
+- Enhance attack methods and monitoring.
+- Simulate additional attack vectors (e.g., SYN flood).
